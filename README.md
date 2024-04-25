@@ -1,5 +1,10 @@
-create-react-app
-taiwind css config
+# Netfflix GPT
+- create-react-app
+- taiwind css config
+- Header
+- Login Form
+- Sign Up Form
+
 
 
 # Features
